@@ -8,11 +8,11 @@ import time
 # Constants
 SOLANA_RPC_URL = "https://api.mainnet-beta.solana.com"
 BITQUERY_API_URL = "https://graphql.bitquery.io"
-BITQUERY_API_KEY = "BQY78PXi7CmQSOdnGC47bfvzm7gjZxwy"
-TELEGRAM_BOT_TOKEN = "7269572848:AAEkW7BfuRKdDdn6mGHSTGZAbPZ4VOC5RTA"
+BITQUERY_API_KEY = "YOUR API KEY"
+TELEGRAM_BOT_TOKEN = "USE YOUR TELEGRAM TOKEN HERE. GO TO BOTFATHER"
 DEXSCREENER_API_URL = "https://api.dexscreener.com/latest/dex/pairs/solana/"
 SOLSCAN_API_BASE_URL = "https://api.solscan.io"  # Solscan API base URL
-SOL_SCAN_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkQXQiOjE3MzYxMTUzNTk2NDMsImVtYWlsIjoibnp1a2llZ2FuNkBnbWFpbC5jb20iLCJhY3Rpb24iOiJ0b2tlbi1hcGkiLCJhcGlWZXJzaW9uIjoidjIiLCJpYXQiOjE3MzYxMTUzNTl9.WnXhErvJgFLolC5Ywm9SUuICy7vj6t9oBxD37Veg3D4"
+SOL_SCAN_API_KEY = "YOUR API KEY"
 
 # Store user context
 user_context = {}
